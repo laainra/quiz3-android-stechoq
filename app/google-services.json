@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "536509597854",
+    "project_id": "quiz3-android",
+    "storage_bucket": "quiz3-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536509597854:android:dfd385d0152ad96bd1938f",
+        "android_client_info": {
+          "package_name": "com.lailaar.quiz3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmJp99EmM5TXfNvsy62HYgw1vgGqHJ6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536509597854:android:92da1717bd36bbf1d1938f",
+        "android_client_info": {
+          "package_name": "com.pembekalan.quiz3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmmJp99EmM5TXfNvsy62HYgw1vgGqHJ6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
